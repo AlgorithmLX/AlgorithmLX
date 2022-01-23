@@ -1,4 +1,4 @@
-### Heyo! there 👋
+### Hey-o! there 👋
 I'm AlgorithmLX, my name is Ivan. Gender: male
 
 I'm:
