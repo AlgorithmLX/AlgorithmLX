@@ -1,5 +1,10 @@
 ### Hey-o! there 👋
-I'm AlgorithmLX, my name is Ivan. Gender: male
+I'm AlgorithmLX, my name is Ivan. 
+
+Gender: male
+
+Age: 14 years
+
 
 I'm:
 
