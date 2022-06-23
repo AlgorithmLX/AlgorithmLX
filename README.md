@@ -3,7 +3,7 @@ I'm AlgorithmLX, my name is Ivan.
 
 Gender: male
 
-Age: 14 years old
+Age: 14(15) years old
 
 Birthday: September 12
 
