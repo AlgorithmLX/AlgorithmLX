@@ -31,6 +31,8 @@ My first self-written mod was LiaVeres.
 
 My last mod is AncientMagic
 
+!timestamp(2007-12-09)
+
 ![AlgorithmLX's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgorithmLX&count_private=true&theme=dark)
 
 
