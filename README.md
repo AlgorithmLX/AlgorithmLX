@@ -3,7 +3,7 @@ I'm AlgorithmLX, my name is Ivan.
 
 Gender: male
 
-Age: 17 years old
+Age: 18 years old
 
 Birthday: September 12
 
@@ -27,13 +27,11 @@ My name is listed above and so is the return.
 
 My first translation was the Occultism mod.
 
-My first self-written mod was LiaVeres. 
-
 My PC Specifications:
 
 - CPU: AMD FX™-6350
 - GPU: Sapphire AMD Radeon RX580 
 - RAM: Patriot Viper Memory 8GB x2
-- OS: Arch Linux (x64-x86) with KDE Plasma 
+- OS: Arch Linux (x64-x86) with Hyprland/Windows 10 Pro
 
 ![AlgorithmLX's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgorithmLX&count_private=true&theme=dark)
