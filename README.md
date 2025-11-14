@@ -29,7 +29,7 @@ My first translation was the Occultism mod.
 
 My PC Specifications:
 
-- CPU: AMD FX™-6350
+- CPU: AMD FX™-8350
 - GPU: Sapphire AMD Radeon RX580 
 - RAM: Patriot Viper Memory 8GB x2
 - OS: Arch Linux (x64-x86) with Hyprland/Windows 10 Pro
