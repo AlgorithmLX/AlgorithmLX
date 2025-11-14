@@ -32,6 +32,6 @@ My PC Specifications:
 - CPU: AMD FX™-8350
 - GPU: Sapphire AMD Radeon RX580 
 - RAM: Patriot Viper Memory 8GB x2
-- OS: Arch Linux (x64-x86) with Hyprland/Windows 10 Pro
+- OS: Windows 10 Pro
 
 ![AlgorithmLX's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlgorithmLX&count_private=true&theme=dark)
