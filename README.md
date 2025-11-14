@@ -17,7 +17,9 @@ I'm:
 - Java developer
 - Minecraft Mod Developer
 - Kotlin developer
-- Translator.
+- Translator
+- System Administrator 
+- Database Administrator
 
 About me: 
 
