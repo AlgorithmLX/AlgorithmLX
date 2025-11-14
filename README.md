@@ -10,7 +10,7 @@ Birthday: September 12
 I know languages:
 
 - Russian (main)
-- English (only written, with speech problems)
+- English
 
 I'm:
 
