@@ -12,14 +12,7 @@ I know languages:
 - Russian (main)
 - English
 
-I'm:
-
-- Java developer
-- Minecraft Mod Developer
-- Kotlin developer
-- Translator
-- System Administrator 
-- Database Administrator
+I'm: DevOps developer
 
 About me: 
 
