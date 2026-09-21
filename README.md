@@ -1,5 +1,5 @@
 ### Hey-o there!
-I'm AlgorithmLX, my name is Ivan. 
+I'm AlgorithmLX, my name is Nero. 
 
 Gender: male
 
